@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadil3&label=Profile%20views&color=0e75b6&style=flat" alt="fadil3" /> </p>
 
-- 🔭 I’m currently working at **eFishery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
